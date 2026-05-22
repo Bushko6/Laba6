@@ -1,5 +1,6 @@
 # 📚 Library Management System
 
+![CI/CD](https://github.com/Bushko6/Laba6/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![Docker](https://img.shields.io/badge/docker-ready-brightgreen)
 ![Tests](https://img.shields.io/badge/tests-passing-success)
